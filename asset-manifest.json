@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gacha/static/css/main.755b31a5.css",
+    "main.js": "/gacha/static/js/main.19cdcca6.js",
+    "static/media/c_telo-removebg-preview.png": "/gacha/static/media/c_telo-removebg-preview.af68c4be7ed5bdcef966.png",
+    "index.html": "/gacha/index.html",
+    "main.755b31a5.css.map": "/gacha/static/css/main.755b31a5.css.map",
+    "main.19cdcca6.js.map": "/gacha/static/js/main.19cdcca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.755b31a5.css",
+    "static/js/main.19cdcca6.js"
+  ]
+}
